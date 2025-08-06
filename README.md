@@ -108,4 +108,4 @@ Se verifica el estado de la carga y la cantidad de filas cargadas respecto al Da
 
 ---
 
-**Nota:** Este laboratorio está diseñado para prácticas de integración y automatización de cargas de datos en la nube, siguiendo estándares técnicos y
+**Nota:** Este laboratorio está diseñado para prácticas de integración y automatización de cargas de datos en la nube, siguiendo estándares técnicos y buenas practicas
